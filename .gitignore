@@ -5,3 +5,5 @@ pg96_data/
 mongo/
 *.sqlite
 upload/
+__pycache__
+*.pyc
