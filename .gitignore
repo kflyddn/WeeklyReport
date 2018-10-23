@@ -7,3 +7,5 @@ mongo/
 upload/
 __pycache__
 *.pyc
+
+.DS_Store
